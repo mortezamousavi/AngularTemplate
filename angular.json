@@ -25,12 +25,12 @@
             "styles": [
               "src/styles.css",
               "Contents/css/Styles.css",
-              "Contents/css/theme.css"
+              "Contents/css/theme.css
              
             ],
             "scripts": [
               "Contents/js/Custome.js",
-              "Contents/js/jquery.js",
+              "Contents/js/jquery.js
               "Contents/js/Scripts.js"
             ],
             "es5BrowserSupport": true
